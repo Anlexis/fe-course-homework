@@ -1,4 +1,6 @@
-app1, app2, layout
+主应用：layout    
+子应用: app1, app2
+
 **serve**: npm run serve
 
 **主应用**: 8080端口
